@@ -8,13 +8,16 @@ date: 2023-01-16
 location: "Uttar Pradesh, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+• Coordinated and supervised a team of teaching assistants for the Java course offered to 1st Year students.
 
-Heading 1
+• Taught Java programming language to 1st year students through laboratory sessions and tutorials, helping them develop a strong foundation in programming concepts.
+
+
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
