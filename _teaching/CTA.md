@@ -4,7 +4,7 @@ collection: teaching
 type: "Object Oriented Programming Using Java 2nd Semester Students"
 # permalink: /teaching/2015-spring-teaching-1
 venue: "Bennett University, Computer Science Department"
-date: 2023-16-01
+date: 2023-01-16
 location: "Uttar Pradesh, India"
 ---
 
