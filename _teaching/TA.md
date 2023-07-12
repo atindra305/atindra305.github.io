@@ -10,6 +10,10 @@ location: "Uttar Pradesh, India"
 
 Responsible for conducting lab sessions and tutorials for first-year students about Python programming. Provided guidance and support to students during their projects and assignments by scheduling Special Lab and Doubt Clearing Sessions for students. Evaluated students’ projects and provided constructive feedback to help them improve their skills.
 
+{% include base_path %}
+[Letter of Appreciation from Dean](https://atindra305.github.io/files/Atindra_Shekhar_TA_Appreciation.pdf)
+======
+
 <!-- Heading 1
 ======
 
