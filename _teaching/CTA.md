@@ -8,9 +8,7 @@ date: 2023-01-16
 location: "Uttar Pradesh, India"
 ---
 
-• Coordinated and supervised a team of teaching assistants for the Java course offered to 1st Year students.
-
-• Taught Java programming language to 1st year students through laboratory sessions and tutorials, helping them develop a strong foundation in programming concepts.
+Coordinated and supervised a team of teaching assistants for the Java course offered to 1st Year students. Taught Java programming language to 1st year students through laboratory sessions and tutorials, helping them develop a strong foundation in programming concepts. Demonstrated strong organizational and communication skills, ensuring that teaching assistants were prop- erly trained, schedules were maintained, and course materials were updated and available to students.
 
 
 <!-- Heading 1
