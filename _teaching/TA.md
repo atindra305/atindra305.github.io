@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Getting Started with Programming: Python 1st Semester Students"
-permalink: /teaching/TA
+# permalink: /teaching/2015-spring-teaching-1
 venue: "Bennett University, Computer Science Department"
 date: 2022-10-01
 location: "Uttar Pradesh, India"
