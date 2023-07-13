@@ -1,10 +1,9 @@
 ---
 title: "Coordinator of Teaching Assistants"
 collection: teaching
-type: "Object Oriented Programming Using Java 2nd Semester Students"
+type: "Object Oriented Programming Using Java 2nd Semester Students (Spring 2023)"
 # permalink: /teaching/2015-spring-teaching-1
 venue: "Bennett University, Computer Science Department"
-date: "Spring 2023"
 location: "Uttar Pradesh, India"
 ---
 
