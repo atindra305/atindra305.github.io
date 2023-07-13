@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Coordinator of Teaching Assistants"
 collection: teaching
 type: "Object Oriented Programming Using Java 2nd Semester Students"

@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Teaching Assistant"
 collection: teaching
 type: "Getting Started with Programming: Python 1st Semester Students"
