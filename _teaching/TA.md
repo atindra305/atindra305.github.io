@@ -11,58 +11,61 @@ Responsible for conducting lab sessions and tutorials for first-year students ab
 
 Syllabus
 ======
-* Python Tools Introduction
-    * Anaconda
-    * IPython Notebook
-    * Jupyter Notebook
+* Introduction to Python Tools:
+   * Python Introduction
+   * Anaconda Installation
+   * IPython Notebook Overview
+   * Jupyter Notebook Introduction
 
-* Task 1:
-    * Compilation, 
-    * Error (Compile time, Run time), 
-    * Write first Python Program, 
-    * Indentation
+* Task 1: Basics of Python Programming:
+   * Compilation and Execution of Python Programs
+   * Types of Errors (Compile-time and Run-time)
+   * Writing Your First Python Program
+   * Importance of Indentation in Python
 
-* Task 2:
-    * Comments examples, 
-    * Using build in functions (print, type, format ,id)
+* Task 2: Comments and Built-in Functions:
+   * Examples and Usage of Comments in Python
+   * Exploring Built-in Functions (print, type, format, id)
 
-* Task 3:
-    * Literals, 
-    * Identifiers and variables, 
-    * Type casting
-    * data types
+* Task 3: Data Types and Variables:
+   * Introduction to Literals in Python
+   * Identifiers and Variables
+   * Type Casting in Python
+   * Exploring Different Data Types
 
-* Task 4:
-    * Basic Operator, 
-    * Expression, 
-    * Statements
+* Task 4: Operators and Expressions:
+   * Understanding Basic Operators in Python
+   * Evaluating Expressions
+   * Working with Statements in Python
 
-* Task 5:
-    * Conditional,
-    * Bitwise Operators
+* Task 5: Conditional Statements and Bitwise Operators:
+   * Conditional Statements (if, elif, else)
+   * Logical Operators (and, or, not)
+   * Bitwise Operators and their Applications
 
-* Task 6:
-    * For Loop,
-    * While Loops,
-    * Nested Loops,
-    * Loop inside if
+* Task 6: Loops in Python:
+   * For Loop and its Applications
+   * While Loop and its Applications
+   * Nested Loops in Python
+   * Loop inside Conditional Statements
 
-* Task 7:
-    * List,
-    * Tuples,
-    * Sets
+* Task 7: Python Data Structures:
+   * Lists and their Manipulation
+   * Tuples and their Characteristics
+   * Sets and Set Operations
 
-* Task 8:
-    * Dictionaries
+* Task 8: Dictionaries:
+   * Understanding Dictionaries and their Usage
 
-* Task 9:
-    * String processing,
+* Task 9: String Manipulation:
+    * String Processing Techniques
     * String Permutations
-    * String Occurrences
+    * Counting String Occurrences
 
-* Task 10:
-    * Access Specifiers
-    * File Handling
+* Task 10: Advanced Topics:
+    * Access Specifiers in Python
+    * File Handling and File Operations
+
 
 <!-- {% include base_path %}
 [Letter of Appreciation from Dean](https://atindra305.github.io/files/Atindra_Shekhar_TA_Appreciation.pdf) -->
