@@ -5,6 +5,7 @@ type: "Object Oriented Programming Using Java 2nd Semester Students (Spring 2023
 # permalink: /teaching/2015-spring-teaching-1
 venue: "Bennett University, Computer Science Department"
 location: "Uttar Pradesh, India"
+date: 2023-01-16
 ---
 
 Coordinated and supervised a team of teaching assistants for the Java course offered to 1st Year students. Taught Java programming language to 1st year students through laboratory sessions and tutorials, helping them develop a strong foundation in programming concepts. Demonstrated strong organizational and communication skills, ensuring that teaching assistants were properly trained, schedules were maintained, and course materials were updated and available to students.

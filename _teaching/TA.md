@@ -5,6 +5,7 @@ type: "Getting Started with Programming: Python 1st Semester Students (Fall 2022
 # permalink: /teaching/2015-spring-teaching-1
 venue: "Bennett University, Computer Science Department"
 location: "Uttar Pradesh, India"
+date: 2022-10-01
 ---
 
 Responsible for conducting lab sessions and tutorials for first-year students about Python programming. Provided guidance and support to students during their projects and assignments by scheduling Special Lab and Doubt Clearing Sessions for students. Evaluated students’ projects and provided constructive feedback to help them improve their skills.
